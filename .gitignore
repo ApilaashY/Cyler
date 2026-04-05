@@ -1,0 +1,10 @@
+*.o
+*.out
+*.dSYM
+gcm.cache
+.vscode
+.DS_Store
+test
+python/*.cpp
+python/*.cpp.o
+python/*.cpp.dSYM

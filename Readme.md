@@ -4,7 +4,5 @@ Just a fun project that has a lot of room for growth
 
 Todos and features to support:
 
-- Printing
-- Variables
-- Basic arithmetic operations
+- Variable reassignments
 - If/Else statements
